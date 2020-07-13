@@ -1,6 +1,8 @@
 ### Hola a todos 👋:
 
 Mi nombre es Ruben Gines,actualmente me encuentro en practicas en una empresa de desarrollo,pero estoy en busqueda activa de empleo.
+Soy una persona responsable,puntual y trabajadora.Siempre estoy probando nuevas tecnologias o lenguajes y puedo ser una gran adquisicion para su empresa.
+
 He cursado los siguientes estudios:
 
 🎓 Cretificados de profesionalidad Nivel-3:
@@ -63,5 +65,7 @@ He cursado los siguientes estudios:
   👉NodeJS
   
   👉Python
+  
+  👉Arduino
   
  
