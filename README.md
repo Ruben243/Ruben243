@@ -1,6 +1,6 @@
 ### Hola a todos 👋:
 
-Mi nombre es Ruben Gines,actualmente me encuentro en practicas en una empresa de desarrollo,pero estoy en busqueda activa de empleo.
+Mi nombre es Ruben Gines,actualmente me encuentro estudiando de forma autodidacta para frnd-end,y estoy en busqueda activa de empleo.
 Soy una persona responsable,puntual y trabajadora.Siempre estoy probando nuevas tecnologias o lenguajes y puedo ser una gran adquisicion para su empresa.
 
 He cursado los siguientes estudios:
@@ -20,7 +20,8 @@ He cursado los siguientes estudios:
   
   👉 LFS101x: Introduction to Linux (EDX)
   
-  👉 Actualmente cursando Node:de cero a experto (Udemy)
+  👉 Node:de cero a experto (Udemy)
+  
 
 
 💻 Sistemas operativos:
@@ -35,7 +36,8 @@ He cursado los siguientes estudios:
   
 👥 Redes Sociales:
 
-  👉https://app.netlify.com/teams/ruben243/sites
+
+  👉https://portafolio-rubengfp.netlify.app/
   
   👉https://codepen.io/Ruben_GFP
   
