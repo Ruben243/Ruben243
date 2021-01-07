@@ -1,6 +1,6 @@
 ### Hola a todos 👋:
 
-Mi nombre es Ruben Gines,actualmente me encuentro estudiando de forma autodidacta para frnd-end,y estoy en busqueda activa de empleo.
+Mi nombre es Ruben Gines,actualmente me encuentro estudiando de forma autodidacta para frond-end,y estoy en busqueda activa de empleo.
 Soy una persona responsable,puntual y trabajadora.Siempre estoy probando nuevas tecnologias o lenguajes y puedo ser una gran adquisicion para su empresa.
 
 He cursado los siguientes estudios:
