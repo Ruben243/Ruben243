@@ -1,9 +1,9 @@
 ### Hola a todos 👋:
 
-Mi nombre es Ruben Gines,actualmente me encuentro estudiando de forma autodidacta como programador web con perfil fullstack y estoy en busqueda activa de empleo.
-Soy una persona responsable,puntual y trabajadora.Siempre estoy probando nuevas tecnologias o lenguajes y puedo ser una gran adquisicion para su empresa.
+Mi nombre es Ruben Gines,actualmente me encuentro complementando mi formacion de forma autodidacta como programador web con perfil fullstack y estoy en busqueda activa de empleo.
+Soy una persona responsable,puntual trabajadora y a la que no le da miedo la busqueda de soluciones.No me supone ningun problema cambiar de una tecnologia a otra y puedo ser una gran adquisicion para su empresa.
 
-He cursado los siguientes estudios y sgo formandome dia a dia:
+He cursado los siguientes estudios y sigo formandome dia a dia:
 
 🎓 Cretificados de profesionalidad Nivel-3:
 
