@@ -32,7 +32,7 @@ He cursado los siguientes estudios y sigo formandome dia a dia:
 
     👉 https://codepen.io/Ruben_GFP
 
-  <p> <a href="https://www.linkedin.com/in/ruben-gfp/" target="_blank"> <img src="https://www.flaticon.es/icono-premium/linkedin_3536505?term=red%20social&page=1&position=64&page=1&position=64&related_id=3536505&origin=tag" alt="Linkedin" width="40" height="40"/> </a> </p>
+   <a href="https://www.linkedin.com/in/ruben-gfp/" target="_blank"> <img src="https://www.flaticon.es/icono-premium/linkedin_3536505?term=red%20social&page=1&position=64&page=1&position=64&related_id=3536505&origin=tag" alt="Linkedin" width="40" height="40"/> </a> 
 
 
 
