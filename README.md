@@ -28,25 +28,15 @@ He cursado los siguientes estudios y sigo formandome dia a dia:
 👥 Redes Sociales:
 
 
-    👉 https://portafolio-rubengfp.netlify.app/
+    👉 https://portafolio-ruben-gines.herokuapp.com/
 
     👉 https://codepen.io/Ruben_GFP
 
-    👉 https://www.linkedin.com/in/ruben-gfp/
+  <p> <a href="https://www.linkedin.com/in/ruben-gfp/" target="_blank"> <img src="https://www.flaticon.es/icono-premium/linkedin_3536505?term=red%20social&page=1&position=64&page=1&position=64&related_id=3536505&origin=tag" alt="sass" width="40" height="40"/> </a> </p>
 
 
 
 
-👷‍Experiencia Laboral:
 
-    👉 LLOOL TECHNOLOGY
-
-    👉 MakeProjects
-
-    👉 IDESA (Ingeniería y Diseño Europeo, S.A.)
-
-    👉 (Sico)Sistemas informaticos y de control
-  
-  
   
  
