@@ -1,7 +1,5 @@
 ### Hola a todos 👋:
-
-Mi nombre es Ruben Gines,actualmente me encuentro complementando mi formacion de forma autodidacta como programador web con perfil fullstack y estoy en busqueda activa de empleo.
-Soy una persona responsable,puntual trabajadora y a la que no le da miedo la busqueda de soluciones.No me supone ningun problema cambiar de una tecnologia a otra y puedo ser una gran adquisicion para su empresa.
+Me llamo Rubén Ginés y desde 2017 estoy formándome como programador.Actualmente estoy preparandome para la prueba mayores de 25 años UNED y formandome de manera autodidacta a través de páginas como Udemy como full-stack. Mis inicios en programacion comenzaron con los lenguajes C, Java y JavaScript en diferentes certificados de profesionalidad. Como perfil fullstack tengo conocimientos de php y nodejs para backend,SQL y MongoDB para bases de datos y HTML5,SaSS/Css y javascript para el front,además estoy iniciandome en angular como framework. Tengo también nociones de testing con Jest y cypress. En esta página dejo algunos de mis trabajos web. En la parte de sistemas, me desenvuelvo con soltura en sistemas tanto W10,como en distribuciones Linux (Ubuntu, Fedora, Manjaro, Debian…). En la parte de seguridad me he formado con la realización de un certificado de profesionalidad.
 
 He cursado los siguientes estudios y sigo formandome dia a dia:
 
