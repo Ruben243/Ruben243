@@ -31,9 +31,5 @@ He cursado los siguientes estudios y sigo formandome dia a dia:
     👉 https://portafolio-ruben-gines.herokuapp.com/
 
     👉 https://codepen.io/Ruben_GFP
-<img src="https://www.flaticon.es/icono-gratis/linkedin_1384088?term=linkeding&page=1&position=2&page=1&position=2&related_id=1384088&origin=search
-" alt="sass" width="40" height="40"/> 
-
-
-  
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
  
