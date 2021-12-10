@@ -27,6 +27,6 @@ He cursado los siguientes estudios y sigo formandome dia a dia:
 
 👥 Redes Sociales:
 <a href="https://portafolio-ruben-gines.herokuapp.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="codepen" width="40" height="40"/> </a>
-<a style="border:1px solid white" href="https://codepen.io/Ruben_GFP" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/ruben-gfp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://codepen.io/Ruben_GFP" target="_blank"> <img style="border:1px solid white"  src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/ruben-gfp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
  
