@@ -32,10 +32,7 @@ He cursado los siguientes estudios y sigo formandome dia a dia:
 
     👉 https://codepen.io/Ruben_GFP
 
-   <a href="https://www.linkedin.com/in/ruben-gfp/" target="_blank"> <img src="https://www.flaticon.es/icono-gratis/linkedin_124011" alt="Linkedin" width="40" height="40"/> </a> 
-
-
-
+https://www.flaticon.es/icono-gratis/linkedin_1384088?term=linkeding&page=1&position=2&page=1&position=2&related_id=1384088&origin=search
 
 
   
